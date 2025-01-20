@@ -37,3 +37,5 @@ Utilize comandos para controlar os LEDs e o buzzer conforme descrito abaixo:
 - reboot: Reinicia o dispositivo
 
 ## Vídeo Demonstrativo
+
+[Assista Aqui][https://drive.google.com/file/d/19uKgs0PTXdLT9GK1DYBOa9OH77JKIiio/view?usp=sharing]
