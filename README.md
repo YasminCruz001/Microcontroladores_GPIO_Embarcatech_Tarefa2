@@ -20,7 +20,7 @@ Este projeto utiliza a ferramenta educacional **BitDogLab** para controlar pinos
    ```bash
    git clone <URL do Repositório>
 2. Abra o projeto no VS Code.
-3. Configure o simulador Wokwi para visualizar a simulação dos componentes.
+
 
 ## Execução
 Utilize comandos para controlar os LEDs e o buzzer conforme descrito abaixo:
@@ -38,4 +38,4 @@ Utilize comandos para controlar os LEDs e o buzzer conforme descrito abaixo:
 
 ## Vídeo Demonstrativo 
 
-[Assista Aqui][https://drive.google.com/file/d/19uKgs0PTXdLT9GK1DYBOa9OH77JKIiio/view?usp=sharing]
+[Assista Aqui](https://drive.google.com/file/d/19uKgs0PTXdLT9GK1DYBOa9OH77JKIiio/view?usp=sharing)
