@@ -36,6 +36,6 @@ Utilize comandos para controlar os LEDs e o buzzer conforme descrito abaixo:
 - buzzer: Emite um som no buzzer por 3 segundos com uma frequência de 300 Hz.
 - reboot: Reinicia o dispositivo
 
-## Vídeo Demonstrativo
+## Vídeo Demonstrativo 
 
 [Assista Aqui][https://drive.google.com/file/d/19uKgs0PTXdLT9GK1DYBOa9OH77JKIiio/view?usp=sharing]
